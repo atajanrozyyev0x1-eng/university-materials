@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+build/
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary files
+Thumbs.db
+.DS_Store
+~$*
+
+# Secrets
+.env
+.env.*

@@ -1,0 +1,63 @@
+tuesday_lesson_1:
+  day: Вторник
+  time: 08:10
+  subject: Алгебра и алгоритмы
+  teacher: Антипова Любовь Александровна
+  room: Lemon Classroom (1419)
+  address: Кронверкский пр., д.49, лит.А
+tuesday_lesson_2:
+  day: Вторник
+  time: 09:50
+  subject: Математический анализ
+  teacher: Антипова Любовь Александровна
+  room: Lemon Classroom (1419)
+  address: Кронверкский пр., д.49, лит.А
+tuesday_lesson_3:
+  day: Вторник
+  time: '11:30'
+  subject: Алгебра и алгоритмы
+  teacher: Антипова Любовь Александровна
+  room: '1330'
+  address: Кронверкский пр., д.49, лит.А
+tuesday_lesson_4:
+  day: Вторник
+  time: '13:30'
+  subject: Математический анализ
+  teacher: Новицкая Валерия Александровна
+  room: '2316'
+  address: Кронверкский пр., д.49, лит.А
+tuesday_lesson_5:
+  day: Вторник
+  time: '15:30'
+  subject: Основы физических процессов
+  teacher: Зимин Александр Адольфович
+  room: '1506'
+  address: Кронверкский пр., д.49, лит.А
+thursday_lesson_1:
+  day: Четверг
+  time: 09:50
+  subject: Основы профессиональной деятельности
+  teacher: Воронина Дарья Сергеевна
+  room: 2306/1
+  address: Кронверкский пр., д.49, лит.А
+thursday_lesson_2:
+  day: Четверг
+  time: '11:30'
+  subject: Основы профессиональной деятельности
+  teacher: Воронина Дарья Сергеевна
+  room: 2306/1
+  address: Кронверкский пр., д.49, лит.А
+thursday_lesson_3:
+  day: Четверг
+  time: '13:30'
+  subject: Информатика
+  teacher: Аксентьева Елена Юрьевна
+  room: '1327'
+  address: Кронверкский пр., д.49, лит.А
+thursday_lesson_4:
+  day: Четверг
+  time: '15:30'
+  subject: Информатика
+  teacher: Аксентьева Елена Юрьевна
+  room: '1327'
+  address: Кронверкский пр., д.49, лит.А

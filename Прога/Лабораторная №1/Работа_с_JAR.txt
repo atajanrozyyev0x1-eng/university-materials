@@ -1,0 +1,11 @@
+Создать .jar архив в терминале IntelliJ IDEA:
+javac -d out src\{name of the file}.java
+java cfe lab1.jar {name of the file} -C out .
+
+Обновить архив:
+javac -encoding UTF-8 -d out src\{name of the file}.java
+jar cfe jab1.jar {name of the file} -C out .
+Check: java -jar lab1.jar
+
+Отправить архив:
+scp -P 2222 lab1.jar s559239@se.ifmo.ru

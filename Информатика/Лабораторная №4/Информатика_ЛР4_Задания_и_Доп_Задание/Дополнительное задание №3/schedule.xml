@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ini_data>
+  <section name="tuesday_lesson_1">
+    <entry key="day">Вторник</entry>
+    <entry key="time">08:10</entry>
+    <entry key="subject">Алгебра и алгоритмы</entry>
+    <entry key="teacher">Антипова Любовь Александровна</entry>
+    <entry key="room">Lemon Classroom (1419)</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="tuesday_lesson_2">
+    <entry key="day">Вторник</entry>
+    <entry key="time">09:50</entry>
+    <entry key="subject">Математический анализ</entry>
+    <entry key="teacher">Антипова Любовь Александровна</entry>
+    <entry key="room">Lemon Classroom (1419)</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="tuesday_lesson_3">
+    <entry key="day">Вторник</entry>
+    <entry key="time">11:30</entry>
+    <entry key="subject">Алгебра и алгоритмы</entry>
+    <entry key="teacher">Антипова Любовь Александровна</entry>
+    <entry key="room">1330</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="tuesday_lesson_4">
+    <entry key="day">Вторник</entry>
+    <entry key="time">13:30</entry>
+    <entry key="subject">Математический анализ</entry>
+    <entry key="teacher">Новицкая Валерия Александровна</entry>
+    <entry key="room">2316</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="tuesday_lesson_5">
+    <entry key="day">Вторник</entry>
+    <entry key="time">15:30</entry>
+    <entry key="subject">Основы физических процессов</entry>
+    <entry key="teacher">Зимин Александр Адольфович</entry>
+    <entry key="room">1506</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="thursday_lesson_1">
+    <entry key="day">Четверг</entry>
+    <entry key="time">09:50</entry>
+    <entry key="subject">Основы профессиональной деятельности</entry>
+    <entry key="teacher">Воронина Дарья Сергеевна</entry>
+    <entry key="room">2306/1</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="thursday_lesson_2">
+    <entry key="day">Четверг</entry>
+    <entry key="time">11:30</entry>
+    <entry key="subject">Основы профессиональной деятельности</entry>
+    <entry key="teacher">Воронина Дарья Сергеевна</entry>
+    <entry key="room">2306/1</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="thursday_lesson_3">
+    <entry key="day">Четверг</entry>
+    <entry key="time">13:30</entry>
+    <entry key="subject">Информатика</entry>
+    <entry key="teacher">Аксентьева Елена Юрьевна</entry>
+    <entry key="room">1327</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+  <section name="thursday_lesson_4">
+    <entry key="day">Четверг</entry>
+    <entry key="time">15:30</entry>
+    <entry key="subject">Информатика</entry>
+    <entry key="teacher">Аксентьева Елена Юрьевна</entry>
+    <entry key="room">1327</entry>
+    <entry key="address">Кронверкский пр., д.49, лит.А</entry>
+  </section>
+</ini_data>
